@@ -116,7 +116,7 @@ MetaEditor编辑器是专门用于编写MQL4语言的编辑器，需要掌握以
 
 ``` c++
 #property copyright "shiyingpan"
-#property link      "https://www.myfxlab.cn"
+#property link      "https://aijy.github.io"
 #property version   "1.00"
 #property strict
 
@@ -275,7 +275,7 @@ void OnStart()
 
 ``` c++
 #property copyright "shiyingpan"
-#property link      "https://www.myfxlab.cn"
+#property link      "https://aijy.github.io"
 #property version   "1.00"
 #property strict
 
@@ -368,7 +368,7 @@ void OnStart()
 
 ``` c++
 #property copyright "shiyingpan"
-#property link      "https://www.myfxlab.cn"
+#property link      "https://aijy.github.io"
 #property version   "1.00"
 #property strict
 
@@ -419,7 +419,7 @@ MQL4中只有一个下单函数：Ordersend()，下单函数的属性，参照�
 
 ``` c++
 #property copyright "shiyingpan"
-#property link      "https://www.myfxlab.cn"
+#property link      "https://aijy.github.io"
 #property version   "1.00"
 #property strict
 
@@ -495,7 +495,7 @@ MQL4中修改订单，使用OrderModify()函数。
 
 ``` c++
 #property copyright "shiyingpan"
-#property link      "https://www.myfxlab.cn"
+#property link      "https://aijy.github.io"
 #property version   "1.00"
 #property strict
 
@@ -557,7 +557,7 @@ MQL4对未执行的挂单使用删除订单函数，将此挂单删除。
 
 ``` c++
 #property copyright "shiyingpan"
-#property link      "https://www.myfxlab.cn"
+#property link      "https://aijy.github.io"
 #property version   "1.00"
 #property strict
 /*---------------------------------------------
@@ -631,7 +631,7 @@ void OnTick()
 }
 */
 #property copyright "shiyingpan"
-#property link      "https://www.myfxlab.cn"
+#property link      "https://aijy.github.io"
 #property version   "1.00"
 #property strict
 //+------------------------------------------------------------------+
@@ -673,7 +673,7 @@ if是条件判断语句，若条件为True（真）时，执行if内容，否则
 
 ``` c++
 #property copyright "shiyingpan"
-#property link      "https://www.myfxlab.cn"
+#property link      "https://aijy.github.io"
 #property version   "1.00"
 #property strict
 
@@ -739,7 +739,7 @@ for循环，在任何编程语言中都占据重要的地位。很复杂的类�
 for循环需要定义循环次数，通常情况下使用如下：
 ``` c++
 #property copyright "shiyingpan"
-#property link      "https://www.myfxlab.cn"
+#property link      "https://aijy.github.io"
 #property version   "1.00"
 #property strict
 
@@ -771,7 +771,7 @@ while循环是一直循环，只要条件满足就执行，在没有停止条件
 
 ``` c++
 #property copyright "shiyingpan"
-#property link      "https://www.myfxlab.cn"
+#property link      "https://aijy.github.io"
 #property version   "1.00"
 #property strict
 
@@ -796,7 +796,7 @@ void OnStart()
 
 ``` c++
 #property copyright "shiyingpan"
-#property link      "https://www.myfxlab.cn"
+#property link      "https://aijy.github.io"
 #property version   "1.00"
 #property strict
 
@@ -885,7 +885,7 @@ void OnStart()
 
 ``` c++
 #property copyright "shiyingpan"
-#property link      "https://www.myfxlab.cn"
+#property link      "https://aijy.github.io"
 #property version   "1.00"
 #property strict
 /*--------------------------------
